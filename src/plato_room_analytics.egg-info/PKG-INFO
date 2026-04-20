@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: plato-room-analytics
+Version: 0.1.0
+Summary: Room usage analytics — metrics, trends, agent activity tracking
+License: MIT
+Requires-Python: >=3.8
